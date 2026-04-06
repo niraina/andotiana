@@ -10,6 +10,11 @@
   },
   "Hero": {
     "description": "Développeur Web",
-    "cv": "Télécharger le CV"
+    "cv": "Télécharger le CV",
+    "resume": "Développeur créatif capable de réaliser des applications web complètes, du concept à la mise en production, avec des interfaces modernes et une attention particulière aux exigences des clients."
+  },
+  "About": {
+    "title": "À propos de moi",
+    "description": "Je suis un développeur web passionné, spécialisé dans la création d’applications modernes et réactives. J’aime relever les défis techniques et proposer des solutions innovantes adaptées aux besoins des clients. Curieux et toujours prêt à apprendre, je m’adapte facilement aux nouvelles technologies. J’apprécie le travail en équipe, j’ai le sens de l’écoute et je m’intègre rapidement dans de nouveaux environnements."
   }
 }

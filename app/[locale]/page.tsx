@@ -1,15 +1,14 @@
 "use client";
+import About from "@/components/about";
 import { FloatingHeader } from "@/components/floating-header";
 import Hero from "@/components/hero";
-import { useTranslations } from "next-intl";
 
 export default function Home() {
-  const t = useTranslations("Home");
   return (
-    <div className="px-3">
+    <div className="px-3 font-mono">
       <FloatingHeader />
       <Hero />
-      <h1>{t("title")}</h1>
+      <About />
     </div>
   );
 }

@@ -10,6 +10,11 @@
   },
   "Hero": {
     "description": "Webentwickler",
-    "cv": "Lebenslauf herunterladen"
+    "cv": "Lebenslauf herunterladen",
+    "resume": "Kreativer Entwickler, der in der Lage ist, vollständige Webanwendungen zu erstellen, vom Konzept bis zur Produktion, mit modernen Schnittstellen und besonderem Augenmerk auf die Anforderungen der Kunden."
+  },
+  "About": {
+    "title": "Über mich",
+    "description": "Ich bin ein leidenschaftlicher Webentwickler, der sich auf die Erstellung moderner und responsiver Anwendungen spezialisiert hat. Ich genieße es, technische Herausforderungen anzugehen und innovative Lösungen zu entwickeln, die den Bedürfnissen der Kunden entsprechen. Neugierig und immer bereit zum Lernen, passe ich mich problemlos den neuen Technologien an. Ich schätze die Zusammenarbeit in Teams, habe ein gutes Ohr für das Verständnis und integriere mich schnell in neue Umgebungen."
   }
 }

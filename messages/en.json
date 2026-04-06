@@ -10,6 +10,11 @@
   },
   "Hero": {
     "description": "Webdeveloper",
-    "cv": "Download CV"
+    "cv": "Download CV",
+    "resume": "Creative developer capable of creating complete web applications, from concept to production, with modern interfaces and particular attention to client requirements."
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I am a passionate web developer, specialized in creating modern and responsive applications. I enjoy tackling technical challenges and proposing innovative solutions adapted to client needs. Curious and always ready to learn, I adapt easily to new technologies. I appreciate teamwork, have a good sense of listening, and integrate quickly into new environments."
   }
 }
