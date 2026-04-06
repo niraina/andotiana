@@ -1,5 +1,11 @@
 {
   "Home": {
     "title": "Bonjour, bienvenue sur mon site !"
+  },
+  "Header": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
   }
 }
