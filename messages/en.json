@@ -7,5 +7,9 @@
     "skills": "Skills",
     "projects": "Projects",
     "contact": "Contact"
+  },
+  "Hero": {
+    "description": "Webdeveloper",
+    "cv": "Download CV"
   }
 }

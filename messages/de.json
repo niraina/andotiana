@@ -7,5 +7,9 @@
     "skills": "Fähigkeiten",
     "projects": "Projekte",
     "contact": "Kontakt"
+  },
+  "Hero": {
+    "description": "Webentwickler",
+    "cv": "Lebenslauf herunterladen"
   }
 }
